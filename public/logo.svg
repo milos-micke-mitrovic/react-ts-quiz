@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg1" sodipodi:docname="_svgclean2.svg" viewBox="0 0 48.82 54.76" sodipodi:version="0.32" version="1.1" inkscape:version="0.48.3.1 r9886" xmlns:ns1="http://sozi.baierouge.fr">
+  <defs id="defs3">
+    <linearGradient id="linearGradient2327">
+      <stop id="stop2328" style="stop-color:#2b1fd5" offset="0"/>
+      <stop id="stop2331" style="stop-color:#a19ece" offset=".5"/>
+      <stop id="stop2329" style="stop-color:#b2b1d2;stop-opacity:.90449" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient2326" fy="209.14" xlink:href="#linearGradient2327" gradientUnits="userSpaceOnUse" cy="211.47" cx="318.06" gradientTransform="matrix(.16959 0 0 .29402 -39.511 -42.311)" r="166.89" inkscape:collect="always"/>
+    <linearGradient id="linearGradient2337" y2="257.73" xlink:href="#linearGradient2327" gradientUnits="userSpaceOnUse" y1="164.71" gradientTransform="matrix(.16959 0 0 .29402 -39.511 -42.311)" x2="477.52" x1="250.54" inkscape:collect="always"/>
+  </defs>
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="0" pagecolor="#ffffff" inkscape:window-maximized="0" inkscape:window-width="674" inkscape:zoom="10.6" inkscape:window-x="0" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="16.674294" inkscape:cy="-966.08767" inkscape:window-height="645" inkscape:pageopacity="0.0"/>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" transform="translate(1.0493 8.58)">
+    <path id="path1062" style="stroke-linejoin:round;fill-rule:evenodd;stroke:url(#linearGradient2337);stroke-linecap:round;stroke-width:.53034;fill:url(#radialGradient2326)" inkscape:connector-curvature="0" d="m12.473 38.448c1.277 1.927 2.657 2.45 2.764 0.084-3.191-9.988-1.985-13.515 2.872-16.57 24.215-15.41-4.595-28.996-14.703-9.924-1.4926 2.777 0.8499 3.656 2.5548 2.72 7.2362-16.357 24.665-4.172 8.0022 4.754-6.3464 3.581-4.6807 8.948-1.49 18.936zm4.731 6.24c0 0.677-0.596 1.227-1.33 1.227s-1.33-0.55-1.33-1.227 0.596-1.226 1.33-1.226 1.33 0.549 1.33 1.226z"/>
+    <g id="g3669" transform="translate(.27238 -.13391)">
+      <text id="text1382" style="font-size:4.1528px;color:#000000;letter-spacing:0;font-family:Bitstream Vera Sans;display:block;fill:#000000" xml:space="preserve" transform="scale(1.2709 .78684)" y="-7.5790501" x="-1.0399513">         <tspan id="tspan1384" sodipodi:role="line" x="-1.0399513" y="-7.5790501">Question</tspan>       </text>
+      <text id="text2907" style="font-size:1.408px;color:#000000;letter-spacing:0;font-family:Bitstream Vera Sans;display:block;fill:#000000" xml:space="preserve" transform="scale(1.2199 .81972)" y="-4.5166569" x="1.6109793">         <tspan id="tspan2909" sodipodi:role="line" x="1.6109793" y="-4.5166569">(c) 2004 Cédric BOSDONNAT</tspan>       </text>
+    </g>
+  </g>
+  <metadata id="metadata18">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
